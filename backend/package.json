@@ -1,0 +1,22 @@
+{
+  "name": "login-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start":"node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "engines": {
+    "node": "20.11.0"
+  },
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  }
+}
